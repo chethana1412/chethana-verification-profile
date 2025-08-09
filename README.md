@@ -35,6 +35,11 @@ Though I am a **2024** graduate, I have **upskilled myself with hands-on project
 - **Design and Verfication of 1x3 Router**
 - **Design and Verification of Loadable Mod-12 Up/Down Counter using SV TB**
 
+---
+
+## **Resume**
+
+https://drive.google.com/file/d/1dd0Lfm_fXkeEJsLv1Q5d65j3oQRBAHHX/view?usp=sharing
 
 ---
 
