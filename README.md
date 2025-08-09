@@ -39,6 +39,6 @@ Though I am a **2024** graduate, I have **upskilled myself with hands-on project
 ---
 
 ## **Contact**
-📧 **Email:** chethanagurushanthappa@gmail.com
-📱 **Phone:** +91 70223 54250 
-💼 **LinkedIn:** https://www.linkedin.com/in/chethana-g-444298206/
+**Email:** chethanagurushanthappa@gmail.com
+**Phone:** +91 70223 54250 
+**LinkedIn:** https://www.linkedin.com/in/chethana-g-444298206/
