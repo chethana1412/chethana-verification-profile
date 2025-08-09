@@ -11,7 +11,7 @@ I have completed **Advanced VLSI Design and Verification training** at **Maven S
 
 ## **Why I’m a Good Fit**
 I bring a **strong foundation in digital design, verification, and programming**, along with **hands-on experience** in building **reusable UVM environments** and debugging **complex RTL designs**.  
-My training and project work have made me confident in handling both **simulation** and **analysis** tasks effectively.
+My training and project work have made me confident in handling both **simulation** and **analysis** tasks effectively. Though I am a **2024** graduate, I have **upskilled myself with hands-on projects, industry tools, and advanced verification methodologies**, making me ready to contribute from day one.
 
 ---
 
