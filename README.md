@@ -18,7 +18,7 @@ Though I am a **2024** graduate, I have **upskilled myself with hands-on project
 
 ---
 
-## **Skills & Experience**
+## **Technical Skills**
 
 - **HVL:** Proficient in **SystemVerilog** and **UVM Framework** with solid understanding of **OOP concepts** in verification.  
 - **Verification:** Hands-on with **Constrained Random Testing**, **Functional Coverage**, and **SystemVerilog Assertions (SVA)**.  
